@@ -1,0 +1,15 @@
+17/09/22 18:28
+Estatística do Projeto
+
+                           	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (incluindo espaços)	#Arquivos	
+Total de palavras:         	      347	   32056	                  175909	                        195992	        2	
+Restantes:                 	      291	   31757	                  174462	                        194302	        2	
+Únicos:                    	      318	   31915	                  175179	                        195150	        2	
+Segmentos únicos restantes:	      291	   31757	                  174462	                        194302	        2	
+
+
+Estatísticas do arquivo individual:
+
+Nome do arquivo         	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (incluindo espaços)	Caracteres únicos (incluindo espaços)	Caracteres únicos restantes (incluindo espaços)	
+Summertime Sandness.docx	                 57	                  1	              28	                         1	              302	                  3	            161	                        3	                             1457	                                10	                            727	                                       10	                                   1702	                                      12	                                  860	                                             12	
+Vladimir_Lenin.UTF8     	                290	                290	             290	                       290	            31754	              31754	          31754	                    31754	                           174452	                            174452	                         174452	                                   174452	                                 194290	                                  194290	                               194290	                                         194290	

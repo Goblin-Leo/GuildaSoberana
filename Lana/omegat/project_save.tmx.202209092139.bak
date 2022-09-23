@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(One, two, three, four)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000913Z" creationid="dmbar" creationdate="20220910T000913Z">
+        <seg>(Um, dois, três, quatro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>99 milhas por hora = 160k/h</note>
+      <tuv lang="EN-US">
+        <seg>Cruising down the coast, going 'bout 99</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001542Z" creationid="dmbar" creationdate="20220910T001321Z">
+        <seg>Passando pela orla, indo a uns 160</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dancing in the dark in the pale moonlight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000553Z" creationid="dmbar" creationdate="20220910T000553Z">
+        <seg>Dançando no escuro sob a pálida luz da lua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Done my hair up real big, beauty queen style</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000615Z" creationid="dmbar" creationdate="20220910T000615Z">
+        <seg>Fiz um penteado enorme, estilo rainha da beleza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drive, drive</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001719Z" creationid="dmbar" creationdate="20220910T001719Z">
+        <seg>Dirigir, dirigir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if you're gone, I'm gonna drive</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001712Z" creationid="dmbar" creationdate="20220910T001712Z">
+        <seg>Mesmo que você tenha ido, irei dirigir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Got my bad baby by my heavenly side</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001552Z" creationid="dmbar" creationdate="20220910T001506Z">
+        <seg>Tenho meu malvadão no meu lado bom </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Got that summertime, summertime sadness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T003652Z" creationid="dmbar" creationdate="20220910T001159Z">
+        <seg>Sinto aquela tristeza, tristeza de verão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High heels off, I'm feeling alive</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000621Z" creationid="dmbar" creationdate="20220910T000621Z">
+        <seg>Sem salto, me sinto viva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Honey, I'm on fire, I feel it everywhere</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000849Z" creationid="dmbar" creationdate="20220910T000849Z">
+        <seg>Querido, estou em chamas, sinto em todo lugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I got my red dress on tonight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000540Z" creationid="dmbar" creationdate="20220910T000540Z">
+        <seg>Estou com meu vestido vermelho esta noite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I just wanted you to know</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000515Z" creationid="dmbar" creationdate="20220910T000515Z">
+        <seg>Eu só queria que você soubesse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I know if I go, I'll die happy tonight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001605Z" creationid="dmbar" creationdate="20220910T001605Z">
+        <seg>Sei que se eu me for, morrerei feliz esta noite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think I'll miss you forever</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001616Z" creationid="dmbar" creationdate="20220910T001616Z">
+        <seg>Acho que sentirei sua falta para sempre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm feeling electric tonight</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001227Z" creationid="dmbar" creationdate="20220910T001227Z">
+        <seg>Sinto me elétrica esta noite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've got that summertime, summertime sadness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T003634Z" creationid="dmbar" creationdate="20220910T001014Z">
+        <seg>Eu sinto aquela tristeza, tristeza de verão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kiss me hard before you go</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000341Z" creationid="dmbar" creationdate="20220910T000341Z">
+        <seg>Beije-me com força antes de ir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Later's better than never</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001658Z" creationid="dmbar" creationdate="20220910T001658Z">
+        <seg>Antes tarde do que nunca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the stars miss the Sun in the morning skies</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001625Z" creationid="dmbar" creationdate="20220910T001625Z">
+        <seg>Como as estrelas sentem falta do sol no céu matinal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing scares me anymore</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000856Z" creationid="dmbar" creationdate="20220910T000856Z">
+        <seg>Nada mais me assusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, my God, I feel it in the air</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000627Z" creationid="dmbar" creationdate="20220910T000627Z">
+        <seg>Ai, meu Deus, eu sinto no ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, oh, oh</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001221Z" creationid="dmbar" creationdate="20220910T001221Z">
+        <seg>Ah, ah, ah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Su-su-summertime, summertime sadness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T001128Z" creationid="dmbar" creationdate="20220910T001128Z">
+        <seg>Tri-tri-tristeza, tristeza de verão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summertime Sandness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000255Z" creationid="dmbar" creationdate="20220910T000255Z">
+        <seg>Tristeza de verão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summertime sadness</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000509Z" creationid="dmbar" creationdate="20220910T000509Z">
+        <seg>Tristeza de verão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Telephone wires above are sizzling like a snare</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000654Z" creationid="dmbar" creationdate="20220910T000654Z">
+        <seg>Os fios de telefone acima estão tremendo como um repique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That, baby, you're the best</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="dmbar" changedate="20220910T000522Z" creationid="dmbar" creationdate="20220910T000522Z">
+        <seg>Que, gato, você é o melhor</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
